@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenevo\\AppData\\Local\\Packages\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\\LocalState\\sessions\\C5FE8CA73DD20E1371467807936F54E52CF373A3\\transfers\\2026-35\\alltest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\models\\statutreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\models\\statutreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\models\\salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\models\\salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\models\\roleutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\models\\roleutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\models\\enseignant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\models\\enseignant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\dtos\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\dtos\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\dtos\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\dtos\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|c:\\users\\lenevo\\desktop\\l3gl\\c#\\webapisecond\\webapisecond\\migrations\\20260830073112_fixmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584077F-57B0-4BA9-B4DC-9668E5507F08}|webapisecond\\webapisecond.csproj|solutionrelative:webapisecond\\migrations\\20260830073112_fixmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Migrations\\20260830072608_fixbug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:webapisecond\\Migrations\\20260830072608_fixbug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\premierWebApi\\premierWebApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\premierWebApi\\premierWebApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 135,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "alltest.json",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\AppData\\Local\\Packages\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\\LocalState\\sessions\\C5FE8CA73DD20E1371467807936F54E52CF373A3\\transfers\\2026-35\\alltest.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Packages\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\\LocalState\\sessions\\C5FE8CA73DD20E1371467807936F54E52CF373A3\\transfers\\2026-35\\alltest.json",
+              "ToolTip": "C:\\Users\\Lenevo\\AppData\\Local\\Packages\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\\LocalState\\sessions\\C5FE8CA73DD20E1371467807936F54E52CF373A3\\transfers\\2026-35\\alltest.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Packages\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\\LocalState\\sessions\\C5FE8CA73DD20E1371467807936F54E52CF373A3\\transfers\\2026-35\\alltest.json",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-30T08:26:49.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "webapisecond\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T07:31:46.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260830073112_fixMigrations.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Migrations\\20260830073112_fixMigrations.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Migrations\\20260830073112_fixMigrations.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Migrations\\20260830073112_fixMigrations.cs",
+              "RelativeToolTip": "webapisecond\\Migrations\\20260830073112_fixMigrations.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T07:31:12.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260830072608_fixbug.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Migrations\\20260830072608_fixbug.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Migrations\\20260830072608_fixbug.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Migrations\\20260830072608_fixbug.cs",
+              "RelativeToolTip": "webapisecond\\Migrations\\20260830072608_fixbug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T07:26:08.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAI4TAAAAAAAAAAAmwBEVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-08-30T06:53:41.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "webapisecond\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T21:27:29.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Services\\TokenService.cs",
+              "RelativeToolTip": "webapisecond\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T21:25:51.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\DTOs\\TokenResponseDto.cs",
+              "RelativeDocumentMoniker": "webapisecond\\DTOs\\TokenResponseDto.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\DTOs\\TokenResponseDto.cs",
+              "RelativeToolTip": "webapisecond\\DTOs\\TokenResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T21:17:11.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "webapisecond\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "webapisecond\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T21:16:48.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "webapisecond\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T20:36:13.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Services\\IReservationService.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Services\\IReservationService.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Services\\IReservationService.cs",
+              "RelativeToolTip": "webapisecond\\Services\\IReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T20:33:08.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\premierWebApi\\premierWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\premierWebApi\\premierWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\premierWebApi\\premierWebApi\\Program.cs",
+              "RelativeToolTip": "..\\premierWebApi\\premierWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T20:20:56.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Program.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Program.cs",
+              "RelativeToolTip": "webapisecond\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T20:20:42.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\premierWebApi\\premierWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\premierWebApi\\premierWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\premierWebApi\\premierWebApi\\appsettings.json",
+              "RelativeToolTip": "..\\premierWebApi\\premierWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-29T20:19:49.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\appsettings.json",
+              "RelativeDocumentMoniker": "webapisecond\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\appsettings.json",
+              "RelativeToolTip": "webapisecond\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-29T20:19:03.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Repositories\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Repositories\\ReservationRepository.cs",
+              "RelativeToolTip": "webapisecond\\Repositories\\ReservationRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwD0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T20:18:00.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Repositories\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Repositories\\IReservationRepository.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Repositories\\IReservationRepository.cs",
+              "RelativeToolTip": "webapisecond\\Repositories\\IReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T20:16:00.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Services\\ReservationService.cs",
+              "RelativeToolTip": "webapisecond\\Services\\ReservationService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwD8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T19:54:06.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateReservationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\DTOs\\CreateReservationDto.cs",
+              "RelativeDocumentMoniker": "webapisecond\\DTOs\\CreateReservationDto.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\DTOs\\CreateReservationDto.cs",
+              "RelativeToolTip": "webapisecond\\DTOs\\CreateReservationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T19:52:17.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReservationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\DTOs\\ReservationDto.cs",
+              "RelativeDocumentMoniker": "webapisecond\\DTOs\\ReservationDto.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\DTOs\\ReservationDto.cs",
+              "RelativeToolTip": "webapisecond\\DTOs\\ReservationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T19:48:11.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "webapisecond\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T10:23:53.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleUtilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Models\\RoleUtilisateur.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Models\\RoleUtilisateur.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Models\\RoleUtilisateur.cs",
+              "RelativeToolTip": "webapisecond\\Models\\RoleUtilisateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T10:06:50.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Models\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "webapisecond\\Models\\Utilisateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T10:04:19.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Models\\Reservation.cs",
+              "RelativeToolTip": "webapisecond\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T10:03:19.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatutReservation.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Models\\StatutReservation.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Models\\StatutReservation.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Models\\StatutReservation.cs",
+              "RelativeToolTip": "webapisecond\\Models\\StatutReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T10:02:48.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Enseignant.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Models\\Enseignant.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Models\\Enseignant.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Models\\Enseignant.cs",
+              "RelativeToolTip": "webapisecond\\Models\\Enseignant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T10:02:13.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Salle.cs",
+              "DocumentMoniker": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Models\\Salle.cs",
+              "RelativeDocumentMoniker": "webapisecond\\Models\\Salle.cs",
+              "ToolTip": "C:\\Users\\Lenevo\\Desktop\\L3GL\\c#\\webapisecond\\webapisecond\\Models\\Salle.cs",
+              "RelativeToolTip": "webapisecond\\Models\\Salle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T09:38:18.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
