@@ -1,0 +1,60 @@
+# Tests API – MonProjetReservation
+
+@baseUrl = https://localhost:7262/api
+@token = REMPLACER_PAR_LE_TOKEN
+
+### 1. LOGIN
+
+# Doit retourner 200 OK et un token JWT
+
+POST {{baseUrl}}/Auth/login
+Content-Type: application/json
+
+{
+  "email": "[admin@example.com](mailto:admin@example.com)",
+  "motDePasse": "password"
+}
+
+### 2. CRÉATION D'UNE RÉSERVATION
+
+# Utilise le token obtenu lors du login
+
+# Doit retourner 200/201 selon l'implémentation
+
+POST {{baseUrl}}/Reservation
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "salleId": 1,
+  "enseignantId": 1,
+  "dateDebut": "2026-09-10T10:00:00",
+  "dateFin": "2026-09-10T12:00:00",
+  "motif": "Cours de programmation"
+}
+
+### 3. TENTATIVE DE CONFLIT
+
+# Même salle et même créneau que la réservation précédente
+
+# Doit retourner 409 Conflict
+
+POST {{baseUrl}}/Reservation
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "salleId": 1,
+  "enseignantId": 1,
+  "dateDebut": "2026-09-10T10:00:00",
+  "dateFin": "2026-09-10T12:00:00",
+  "motif": "Deuxième réservation du même créneau"
+}
+
+### 4. ACCÈS SANS TOKEN
+
+# Aucun header Authorization
+
+# Doit retourner 401 Unauthorized
+
+GET {{baseUrl}}/Reservation
